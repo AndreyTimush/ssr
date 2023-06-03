@@ -1,0 +1,12 @@
+* {
+  font-family: Palatino;
+  margin: 0;
+  padding: 0;
+}
+
+.mainContainer {
+  overflow: hidden;
+  width: 100%;
+  height: 100px;
+  background-color: black;
+}
